@@ -62,7 +62,7 @@ Certifique-se de que o Docker e o Docker Compose estão instalados e configurado
 ### Backend
 1. Clone este repositório:
     ```bash
-    git clone https://github.com/gabrafo/AmigoFiel
+    git clone https://github.com/thyale/AmigoFiel
     ```
 2. Navegue até o diretório do projeto:
     ```bash
