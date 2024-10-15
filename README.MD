@@ -22,7 +22,7 @@
 - Swagger
 - Java Mail Sender
 - OpenFeign
-- JUnit5, Mockito, WebMVC, Surefire, JaCoCo e Pytest
+- JUnit5, Mockito, WebMVC, Surefire, JaCoCo
 
 ### Infra
 - PostgreSQL
